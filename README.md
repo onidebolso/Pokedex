@@ -1,2 +1,2 @@
 # Pokedex
-Uma pokedex usando JS
+Uma pokedex usando TS/JS
