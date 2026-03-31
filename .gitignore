@@ -1,0 +1,38 @@
+# Dependências
+node_modules/
+jspm_packages/
+
+# Arquivos de ambiente e segredos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# Build e compilação
+dist/
+build/
+out/
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cobertura de testes
+coverage/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
